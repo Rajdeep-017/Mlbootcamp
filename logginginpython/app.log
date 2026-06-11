@@ -1,0 +1,5 @@
+2026-06-11 16:54:07,488-root-DEBUG-this is a debug meg
+2026-06-11 16:54:07,490-root-INFO-this is an info meg
+2026-06-11 16:54:07,490-root-WARNING-warning msg
+2026-06-11 16:54:07,490-root-ERROR-this is error
+2026-06-11 16:54:07,491-root-CRITICAL-critical msg

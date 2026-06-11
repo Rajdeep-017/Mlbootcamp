@@ -1,0 +1,7 @@
+2026-06-11 17:03:09-root-DEBUG-this is a debug meg
+2026-06-11 17:03:09-root-INFO-this is an info meg
+2026-06-11 17:03:09-root-WARNING-warning msg
+2026-06-11 17:03:09-root-ERROR-this is error
+2026-06-11 17:03:09-root-CRITICAL-critical msg
+2026-06-11 17:03:09-root-DEBUG-the addition called
+2026-06-11 17:03:09-root-DEBUG-the addition operation
